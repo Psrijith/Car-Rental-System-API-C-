@@ -1,0 +1,6 @@
+@DEMO__ASS9_HostAddress = http://localhost:5072
+
+GET {{DEMO__ASS9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
